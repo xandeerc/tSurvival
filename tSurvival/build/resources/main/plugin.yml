@@ -1,0 +1,7 @@
+name: tSurvival
+version: '1.0-BETA'
+main: gg.miguel.tSurvival.TSurvival
+api-version: '1.20'
+commands:
+  tsurvival:
+    description: comando principal
